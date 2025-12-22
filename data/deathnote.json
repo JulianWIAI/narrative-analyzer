@@ -1,0 +1,173 @@
+{
+  "title": "Death Note",
+  "category": "anime",
+  "year": 2003,
+  "genre": [
+    "thriller",
+    "psychological",
+    "supernatural",
+    "mystery"
+  ],
+  "themes": [
+    "justice",
+    "morality",
+    "power_corrupts",
+    "god_complex"
+  ],
+  "setting": "Modern Japan",
+  "power_system": "death_note",
+  "characters": [
+    {
+      "name": "Light Yagami",
+      "gender": "male",
+      "age": "17-23",
+      "species": "human",
+      "role": "protagonist",
+      "hair_color": "brown",
+      "family_status": "full_family",
+      "traits": [
+        "genius",
+        "god_complex",
+        "villain_protagonist",
+        "manipulative",
+        "handsome",
+        "corrupted_by_power"
+      ],
+      "dream": "Create new world as god",
+      "abilities": [
+        "death_note",
+        "manipulation",
+        "planning"
+      ],
+      "power_source": "death_note",
+      "story": "Death Note"
+    },
+    {
+      "name": "L",
+      "gender": "male",
+      "species": "human",
+      "role": "rival",
+      "hair_color": "black",
+      "family_status": "orphan",
+      "traits": [
+        "genius",
+        "eccentric",
+        "detective",
+        "sweet_tooth",
+        "mysterious",
+        "sits_weird"
+      ],
+      "abilities": [
+        "deduction",
+        "investigation"
+      ],
+      "power_source": "intellect",
+      "story": "Death Note"
+    },
+    {
+      "name": "Misa Amane",
+      "gender": "female",
+      "species": "human",
+      "role": "supporting",
+      "hair_color": "blonde",
+      "family_status": "orphan",
+      "traits": [
+        "obsessed_with_light",
+        "second_kira",
+        "goth",
+        "model",
+        "devoted"
+      ],
+      "abilities": [
+        "shinigami_eyes",
+        "death_note"
+      ],
+      "power_source": "death_note",
+      "story": "Death Note"
+    },
+    {
+      "name": "Ryuk",
+      "gender": "male",
+      "species": "shinigami",
+      "role": "supporting",
+      "traits": [
+        "death_god",
+        "bored",
+        "apple_obsessed",
+        "observer",
+        "comedic",
+        "neutral"
+      ],
+      "abilities": [
+        "immortal",
+        "invisible",
+        "flight"
+      ],
+      "story": "Death Note"
+    },
+    {
+      "name": "Near",
+      "gender": "male",
+      "species": "human",
+      "role": "supporting",
+      "hair_color": "white",
+      "family_status": "orphan",
+      "traits": [
+        "L_successor",
+        "genius",
+        "toys",
+        "emotionless"
+      ],
+      "abilities": [
+        "deduction"
+      ],
+      "power_source": "intellect",
+      "story": "Death Note"
+    }
+  ],
+  "objects": [
+    {
+      "name": "Death Note",
+      "object_type": "artifact",
+      "traits": [
+        "central_to_plot",
+        "kills",
+        "rules",
+        "supernatural",
+        "corrupts"
+      ],
+      "powers": [
+        "write_name_to_kill"
+      ],
+      "plot_importance": "central"
+    }
+  ],
+  "arcs": [
+    {
+      "name": "L Arc",
+      "arc_type": "cat_and_mouse",
+      "traits": [
+        "mind_games",
+        "investigation",
+        "hidden_identity"
+      ],
+      "themes": [
+        "justice",
+        "morality"
+      ]
+    },
+    {
+      "name": "Near and Mello Arc",
+      "arc_type": "cat_and_mouse",
+      "traits": [
+        "final_confrontation",
+        "successors"
+      ],
+      "themes": [
+        "legacy",
+        "downfall"
+      ],
+      "is_final_arc": true
+    }
+  ]
+}

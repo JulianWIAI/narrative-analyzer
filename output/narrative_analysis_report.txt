@@ -1,0 +1,398 @@
+======================================================================
+NARRATIVE PATTERN ANALYSIS REPORT
+Generated: 2025-12-22 11:31
+======================================================================
+
+## SUMMARY
+----------------------------------------
+Stories Analyzed: 3
+  - Bleach
+  - My Hero Academia
+  - Naruto
+Total Characters: 27
+Total Objects: 6
+Total Plot Arcs: 10
+Known Tropes Found: 8
+Cross-Story Similarities: 37
+New Patterns Discovered: 50
+
+
+## TROPE MATCHES
+======================================================================
+
+### Colorful Hair Treasure Woman
+    Category: character
+    Description: A female character with unusual/colorful hair who is associated with treasure, money, or valuable items
+    Matches Found: 10
+
+    [56%] Ichigo Kurosaki (Bleach)
+          Matched: female, unusual_hair_color
+    [56%] Orihime Inoue (Bleach)
+          Matched: female, unusual_hair_color
+    [56%] Izuku Midoriya (My Hero Academia)
+          Matched: female, unusual_hair_color
+    [56%] Shoto Todoroki (My Hero Academia)
+          Matched: female, unusual_hair_color
+    [56%] Tomura Shigaraki (My Hero Academia)
+          Matched: female, unusual_hair_color
+    [56%] Sakura Haruno (Naruto)
+          Matched: female, unusual_hair_color
+    [56%] Kakashi Hatake (Naruto)
+          Matched: female, unusual_hair_color
+    [56%] Jiraiya (Naruto)
+          Matched: female, unusual_hair_color
+    [56%] Hinata Hyuga (Naruto)
+          Matched: female, unusual_hair_color
+    [56%] Gaara (Naruto)
+          Matched: female, unusual_hair_color
+
+### Rival Who Becomes Friend
+    Category: character
+    Description: A character who starts as antagonist/rival but becomes ally
+    Matches Found: 5
+
+    [61%] Uryu Ishida (Bleach)
+          Matched: starts_as_rival, becomes_ally, proud
+    [61%] Katsuki Bakugo (My Hero Academia)
+          Matched: starts_as_rival, becomes_ally, proud
+    [61%] Gaara (Naruto)
+          Matched: starts_as_rival, becomes_ally, redemption_arc
+    [56%] Byakuya Kuchiki (Bleach)
+          Matched: starts_as_rival, becomes_ally
+    [56%] Sasuke Uchiha (Naruto)
+          Matched: starts_as_rival, becomes_ally
+
+### Broken Family Hero
+    Category: character
+    Description: The main protagonist has missing, dead, or absent parents/family
+    Matches Found: 4
+
+    [70%] Naruto Uzumaki (Naruto)
+          Matched: protagonist, orphan_or_absent_parent, lonely_childhood
+    [70%] Kakashi Hatake (Naruto)
+          Matched: protagonist, orphan_or_absent_parent, raised_by_mentor
+    [63%] Ichigo Kurosaki (Bleach)
+          Matched: protagonist, orphan_or_absent_parent
+    [63%] Izuku Midoriya (My Hero Academia)
+          Matched: protagonist, orphan_or_absent_parent
+
+### World-Ending Threat
+    Category: plot
+    Description: A villain or event that threatens to destroy the world
+    Matches Found: 2
+
+    [79%] Fourth Shinobi War (Naruto)
+          Matched: world_destruction_threat, final_arc, all_heroes_unite, sacrifice
+    [72%] Thousand Year Blood War (Bleach)
+          Matched: world_destruction_threat, final_arc, all_heroes_unite
+
+### Tournament Arc
+    Category: plot
+    Description: A story arc centered around a competition or tournament
+    Matches Found: 2
+
+    [72%] Chunin Exams (Naruto)
+          Matched: competition, multiple_fighters, reveals_new_characters, interrupted_by_villain
+    [60%] U.A. Sports Festival (My Hero Academia)
+          Matched: competition, multiple_fighters
+
+### Inherited Special Item
+    Category: object
+    Description: A powerful item passed down from parent/predecessor to the hero
+    Matches Found: 1
+
+    [52%] One For All (My Hero Academia)
+          Matched: inherited, special_power
+
+### Mysterious Main Antagonist
+    Category: character
+    Description: The main villain whose true identity, motives, or power is hidden initially
+    Matches Found: 1
+
+    [56%] Itachi Uchiha (Naruto)
+          Matched: antagonist, mysterious
+
+### Power of Friendship
+    Category: theme
+    Description: Characters gain strength or win through bonds with friends
+    Matches Found: 1
+
+    [56%] Sasuke Retrieval (Naruto)
+          Matched: friendship_empowers
+
+
+## CROSS-STORY SIMILARITIES
+======================================================================
+
+Characters from different stories that share traits/roles:
+
+  [82%] Orihime Inoue (Bleach)
+         ↔ Hinata Hyuga (Naruto)
+         Shared: female, loves_protagonist, orange_hair, kind, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+  [67%] Ichigo Kurosaki (Bleach)
+         ↔ Izuku Midoriya (My Hero Academia)
+         Shared: male, orphan_or_absent_parent, single_parent, protagonist, orange_hair
+         Tropes: Colorful Hair Treasure Woman, Broken Family Hero
+
+  [60%] Byakuya Kuchiki (Bleach)
+         ↔ Sasuke Uchiha (Naruto)
+         Shared: becomes_ally, male, black_hair, cold, rival
+         Tropes: Rival Who Becomes Friend
+
+  [58%] Izuku Midoriya (My Hero Academia)
+         ↔ Kakashi Hatake (Naruto)
+         Shared: male, orphan_or_absent_parent, green_hair, quirkless_to_powerful, protagonist
+         Tropes: Colorful Hair Treasure Woman, Broken Family Hero
+
+  [58%] Uryu Ishida (Bleach)
+         ↔ Katsuki Bakugo (My Hero Academia)
+         Shared: proud, becomes_ally, male, rival, starts_as_rival
+         Tropes: Rival Who Becomes Friend
+
+  [54%] Katsuki Bakugo (My Hero Academia)
+         ↔ Sasuke Uchiha (Naruto)
+         Shared: becomes_ally, male, rival, prodigy
+         Tropes: Rival Who Becomes Friend
+
+  [52%] Shoto Todoroki (My Hero Academia)
+         ↔ Gaara (Naruto)
+         Shared: broken_family, male, rival, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+  [52%] Ichigo Kurosaki (Bleach)
+         ↔ Kakashi Hatake (Naruto)
+         Shared: male, orphan_or_absent_parent, protagonist, orange_hair, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman, Broken Family Hero
+
+  [51%] Uryu Ishida (Bleach)
+         ↔ Sasuke Uchiha (Naruto)
+         Shared: becomes_ally, male, black_hair, rival, starts_as_rival
+         Tropes: Rival Who Becomes Friend
+
+  [50%] Orihime Inoue (Bleach)
+         ↔ Ochaco Uraraka (My Hero Academia)
+         Shared: female, loves_protagonist, kind, love_interest
+
+  [50%] Ochaco Uraraka (My Hero Academia)
+         ↔ Hinata Hyuga (Naruto)
+         Shared: female, loves_protagonist, kind, love_interest
+
+  [50%] Tomura Shigaraki (My Hero Academia)
+         ↔ Kakashi Hatake (Naruto)
+         Shared: male, orphan, orphan_or_absent_parent, tragic_past, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+  [47%] Shoto Todoroki (My Hero Academia)
+         ↔ Jiraiya (Naruto)
+         Shared: red_white_hair, male, powerful, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+  [44%] Ichigo Kurosaki (Bleach)
+         ↔ Sakura Haruno (Naruto)
+         Shared: male, hot_headed, orange_hair, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+  [44%] Aizen Sosuke (Bleach)
+         ↔ Orochimaru (Naruto)
+         Shared: male, main_villain, antagonist, genius
+
+  [43%] Byakuya Kuchiki (Bleach)
+         ↔ Katsuki Bakugo (My Hero Academia)
+         Shared: becomes_ally, male, rival
+         Tropes: Rival Who Becomes Friend
+
+  [43%] Katsuki Bakugo (My Hero Academia)
+         ↔ Gaara (Naruto)
+         Shared: becomes_ally, male, rival
+         Tropes: Rival Who Becomes Friend
+
+  [43%] Shoto Todoroki (My Hero Academia)
+         ↔ Kakashi Hatake (Naruto)
+         Shared: male, powerful, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+  [42%] Orihime Inoue (Bleach)
+         ↔ Izuku Midoriya (My Hero Academia)
+         Shared: female, loves_protagonist, orange_hair, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+  [42%] Orihime Inoue (Bleach)
+         ↔ Sakura Haruno (Naruto)
+         Shared: female, orange_hair, unusual_hair_color
+         Tropes: Colorful Hair Treasure Woman
+
+
+
+## DISCOVERED PATTERNS (NEW!)
+======================================================================
+
+Patterns found across multiple stories that aren't known tropes:
+
+
+  ★ Becomes Ally + Male + Rival
+    Frequency: 5 characters across 100% of stories
+    Traits: becomes_ally, male, rival
+    Examples:
+      - Uryu Ishida (Bleach)
+      - Byakuya Kuchiki (Bleach)
+      - Katsuki Bakugo (My Hero Academia)
+      - Sasuke Uchiha (Naruto)
+      - Gaara (Naruto)
+
+  ★ Male + Orphan Or Absent Parent + Unusual Hair Color
+    Frequency: 4 characters across 100% of stories
+    Traits: male, orphan_or_absent_parent, unusual_hair_color
+    Examples:
+      - Ichigo Kurosaki (Bleach)
+      - Izuku Midoriya (My Hero Academia)
+      - Tomura Shigaraki (My Hero Academia)
+      - Kakashi Hatake (Naruto)
+
+  ★ Female + Kind + Love Interest
+    Frequency: 3 characters across 100% of stories
+    Traits: female, kind, love_interest
+    Examples:
+      - Orihime Inoue (Bleach)
+      - Ochaco Uraraka (My Hero Academia)
+      - Hinata Hyuga (Naruto)
+
+  ★ Female + Kind + Loves Protagonist
+    Frequency: 3 characters across 100% of stories
+    Traits: female, kind, loves_protagonist
+    Examples:
+      - Orihime Inoue (Bleach)
+      - Ochaco Uraraka (My Hero Academia)
+      - Hinata Hyuga (Naruto)
+
+  ★ Female + Love Interest + Loves Protagonist
+    Frequency: 3 characters across 100% of stories
+    Traits: female, love_interest, loves_protagonist
+    Examples:
+      - Orihime Inoue (Bleach)
+      - Ochaco Uraraka (My Hero Academia)
+      - Hinata Hyuga (Naruto)
+
+  ★ Kind + Love Interest + Loves Protagonist
+    Frequency: 3 characters across 100% of stories
+    Traits: kind, love_interest, loves_protagonist
+    Examples:
+      - Orihime Inoue (Bleach)
+      - Ochaco Uraraka (My Hero Academia)
+      - Hinata Hyuga (Naruto)
+
+  ★ Antagonist + Main Villain + Male
+    Frequency: 3 characters across 100% of stories
+    Traits: antagonist, main_villain, male
+    Examples:
+      - Aizen Sosuke (Bleach)
+      - Tomura Shigaraki (My Hero Academia)
+      - Madara Uchiha (Naruto)
+
+  ★ Male + Orphan + Orphan Or Absent Parent
+    Frequency: 4 characters across 67% of stories
+    Traits: male, orphan, orphan_or_absent_parent
+    Examples:
+      - Tomura Shigaraki (My Hero Academia)
+      - Naruto Uzumaki (Naruto)
+      - Sasuke Uchiha (Naruto)
+      - Kakashi Hatake (Naruto)
+
+  ★ Becomes Ally + Black Hair + Male
+    Frequency: 3 characters across 67% of stories
+    Traits: becomes_ally, black_hair, male
+    Examples:
+      - Uryu Ishida (Bleach)
+      - Byakuya Kuchiki (Bleach)
+      - Sasuke Uchiha (Naruto)
+
+  ★ Becomes Ally + Black Hair + Rival
+    Frequency: 3 characters across 67% of stories
+    Traits: becomes_ally, black_hair, rival
+    Examples:
+      - Uryu Ishida (Bleach)
+      - Byakuya Kuchiki (Bleach)
+      - Sasuke Uchiha (Naruto)
+
+  ★ Black Hair + Male + Rival
+    Frequency: 3 characters across 67% of stories
+    Traits: black_hair, male, rival
+    Examples:
+      - Uryu Ishida (Bleach)
+      - Byakuya Kuchiki (Bleach)
+      - Sasuke Uchiha (Naruto)
+
+  ★ Male + Rival + Starts As Rival
+    Frequency: 3 characters across 67% of stories
+    Traits: male, rival, starts_as_rival
+    Examples:
+      - Uryu Ishida (Bleach)
+      - Sasuke Uchiha (Naruto)
+      - Gaara (Naruto)
+
+  ★ Antagonist + Genius + Male
+    Frequency: 3 characters across 67% of stories
+    Traits: antagonist, genius, male
+    Examples:
+      - Aizen Sosuke (Bleach)
+      - Orochimaru (Naruto)
+      - Itachi Uchiha (Naruto)
+
+  ★ Male + Powerful + Unusual Hair Color
+    Frequency: 3 characters across 67% of stories
+    Traits: male, powerful, unusual_hair_color
+    Examples:
+      - Shoto Todoroki (My Hero Academia)
+      - Kakashi Hatake (Naruto)
+      - Jiraiya (Naruto)
+
+  ★ Hidden Power + Male + Orphan Or Absent Parent
+    Frequency: 2 characters across 67% of stories
+    Traits: hidden_power, male, orphan_or_absent_parent
+    Examples:
+      - Ichigo Kurosaki (Bleach)
+      - Naruto Uzumaki (Naruto)
+
+
+## PER-STORY BREAKDOWN
+======================================================================
+
+### Bleach
+----------------------------------------
+
+  Characters & Their Tropes:
+    Ichigo Kurosaki: Colorful Hair Treasure Woman (56%), Broken Family Hero (63%)
+    Uryu Ishida: Rival Who Becomes Friend (61%)
+    Orihime Inoue: Colorful Hair Treasure Woman (56%)
+    Byakuya Kuchiki: Rival Who Becomes Friend (56%)
+
+### My Hero Academia
+----------------------------------------
+
+  Characters & Their Tropes:
+    Izuku Midoriya: Colorful Hair Treasure Woman (56%), Broken Family Hero (63%)
+    Katsuki Bakugo: Rival Who Becomes Friend (61%)
+    Shoto Todoroki: Colorful Hair Treasure Woman (56%)
+    Tomura Shigaraki: Colorful Hair Treasure Woman (56%)
+
+  Objects & Their Tropes:
+    One For All: Inherited Special Item (52%)
+
+### Naruto
+----------------------------------------
+
+  Characters & Their Tropes:
+    Naruto Uzumaki: Broken Family Hero (70%)
+    Sasuke Uchiha: Rival Who Becomes Friend (56%)
+    Sakura Haruno: Colorful Hair Treasure Woman (56%)
+    Kakashi Hatake: Colorful Hair Treasure Woman (56%), Broken Family Hero (70%)
+    Jiraiya: Colorful Hair Treasure Woman (56%)
+    Hinata Hyuga: Colorful Hair Treasure Woman (56%)
+    Gaara: Colorful Hair Treasure Woman (56%), Rival Who Becomes Friend (61%)
+    Itachi Uchiha: Mysterious Main Antagonist (56%)
+
+
+======================================================================
+END OF REPORT
+======================================================================
