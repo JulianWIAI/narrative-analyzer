@@ -20,7 +20,7 @@ KNOWN_TROPES = {
         "category": "character",
         "required_traits": ["female", "unusual_hair_color"],
         "associated_traits": ["loves_money", "treasure_hunter", "navigator", "smart", "technical"],
-        "examples": ["Nami (One Piece)", "Bulma (Dragon Ball)"],
+        "examples": ["Seraphine Coldwell (Ironclad Guild Chronicles)", "Lira Frostmere (Starcross Academy)"],
         "weight": 0.8
     },
     
@@ -30,7 +30,7 @@ KNOWN_TROPES = {
         "category": "character",
         "required_traits": ["protagonist", "orphan_or_absent_parent"],
         "associated_traits": ["raised_by_relative", "raised_by_mentor", "seeks_family", "lonely_childhood"],
-        "examples": ["Ash Ketchum", "Goku", "Luffy", "Naruto", "Harry Potter", "Batman"],
+        "examples": ["Kael Duskvane (Ironclad Guild Chronicles)", "Ryuu Solente (Starcross Academy)", "Eryn Shade (Voidwalkers)"],
         "weight": 0.9
     },
     
@@ -40,7 +40,7 @@ KNOWN_TROPES = {
         "category": "character",
         "required_traits": ["old", "mentor", "appears_early"],
         "associated_traits": ["wise", "powerful", "mysterious_past", "teaches_protagonist", "grandfather_figure"],
-        "examples": ["Professor Oak", "Grandpa Gohan", "Dumbledore", "Gandalf", "Master Roshi"],
+        "examples": ["Grand Warden Orvyn (Ironclad Guild Chronicles)", "The Archivist (Voidwalkers)", "Director Yuen Cassara (Starcross Academy)"],
         "weight": 0.85
     },
     
@@ -50,7 +50,7 @@ KNOWN_TROPES = {
         "category": "character",
         "required_traits": ["animal_or_creature", "can_speak"],
         "associated_traits": ["comic_relief", "loyal", "small", "mascot", "unique_among_species"],
-        "examples": ["Meowth", "Chopper", "Pikachu", "Happy (Fairy Tail)", "Morgana (Persona 5)"],
+        "examples": ["Nox (Starcross Academy)", "Breck Hammerfall (Ironclad Guild Chronicles)"],
         "weight": 0.75
     },
     
@@ -60,7 +60,7 @@ KNOWN_TROPES = {
         "category": "character",
         "required_traits": ["starts_as_rival", "becomes_ally"],
         "associated_traits": ["proud", "skilled", "similar_age_to_hero", "competitive", "redemption_arc"],
-        "examples": ["Gary Oak/Blue", "Vegeta", "Sasuke", "Kaiba"],
+        "examples": ["Vael Ashborne (Ironclad Guild Chronicles)", "Zeno Brightmark (Starcross Academy)", "Ix (Voidwalkers)"],
         "weight": 0.8
     },
     
@@ -70,7 +70,7 @@ KNOWN_TROPES = {
         "category": "character",
         "required_traits": ["large_or_strong", "kind_personality"],
         "associated_traits": ["protective", "simple_minded", "loves_food", "loyal", "scary_appearance"],
-        "examples": ["Hagrid", "Chopper (monster form)", "Buu (good)", "Franky"],
+        "examples": ["Breck Hammerfall (Ironclad Guild Chronicles)", "Matthis Greave (Voidwalkers)"],
         "weight": 0.7
     },
     
@@ -80,7 +80,7 @@ KNOWN_TROPES = {
         "category": "character",
         "required_traits": ["antagonist", "mysterious"],
         "associated_traits": ["hidden_identity", "grand_plan", "connected_to_hero", "appears_late"],
-        "examples": ["Voldemort", "Madara", "Blackbeard", "Giovanni"],
+        "examples": ["Mora Dusk (Ironclad Guild Chronicles)", "Caelus Vanthorn (Starcross Academy)", "Vael the Unmade (Voidwalkers)"],
         "weight": 0.8
     },
     
@@ -91,7 +91,7 @@ KNOWN_TROPES = {
         "category": "object",
         "required_traits": ["device_or_tool", "plot_essential"],
         "associated_traits": ["unique", "technical", "guides_journey", "given_by_mentor", "upgradeable"],
-        "examples": ["Pokédex", "Dragon Radar", "Log Pose", "Millennium Puzzle", "Death Note"],
+        "examples": ["The Archivist's Tome (Voidwalkers)", "The Stellar Codex (Starcross Academy)"],
         "weight": 0.85
     },
     
@@ -101,7 +101,7 @@ KNOWN_TROPES = {
         "category": "object",
         "required_traits": ["collectible", "set_of_items", "grants_power_or_progress"],
         "associated_traits": ["scattered", "numbered", "villains_want_them", "final_wish_or_power"],
-        "examples": ["Dragon Balls", "Gym Badges", "Chaos Emeralds", "Infinity Stones", "Horcruxes"],
+        "examples": ["Void Core Shards (Voidwalkers)", "The Primordial Anvil (Ironclad Guild Chronicles)"],
         "weight": 0.9
     },
     
@@ -111,7 +111,7 @@ KNOWN_TROPES = {
         "category": "object",
         "required_traits": ["inherited", "special_power"],
         "associated_traits": ["from_parent", "unique", "symbol_of_legacy", "unlocks_potential"],
-        "examples": ["Straw Hat", "Goku's Power Pole", "Harry's Cloak", "Luffy's Hat"],
+        "examples": ["The Archivist's Tome (Voidwalkers)"],
         "weight": 0.75
     },
     
@@ -122,7 +122,7 @@ KNOWN_TROPES = {
         "category": "plot",
         "required_traits": ["competition", "multiple_fighters"],
         "associated_traits": ["bracket_style", "reveals_new_characters", "power_showcase", "interrupted_by_villain"],
-        "examples": ["Pokémon League", "World Martial Arts Tournament", "Chunin Exams", "U.A. Sports Festival"],
+        "examples": ["Guild Entrance Trials (Ironclad Guild Chronicles)", "Placement Exams (Starcross Academy)", "The Grand Stellar Games (Starcross Academy)"],
         "weight": 0.85
     },
     
@@ -132,7 +132,7 @@ KNOWN_TROPES = {
         "category": "plot",
         "required_traits": ["training", "power_increase"],
         "associated_traits": ["time_skip", "new_mentor", "harsh_conditions", "new_technique_learned"],
-        "examples": ["Hyperbolic Time Chamber", "Sage Training", "Time Skip training"],
+        "examples": ["pre-battle training arc (generic shonen structure)", "power-up preparation period"],
         "weight": 0.8
     },
     
@@ -142,7 +142,7 @@ KNOWN_TROPES = {
         "category": "plot",
         "required_traits": ["teammate_captured", "rescue_mission"],
         "associated_traits": ["infiltration", "enemy_base", "team_splits_up", "power_of_friendship"],
-        "examples": ["Enies Lobby", "Sasuke Retrieval", "Rescue Rukia"],
+        "examples": ["rescue mission archetype common in team-based adventure stories"],
         "weight": 0.8
     },
     
@@ -152,7 +152,7 @@ KNOWN_TROPES = {
         "category": "plot",
         "required_traits": ["world_destruction_threat"],
         "associated_traits": ["final_arc", "all_heroes_unite", "sacrifice", "new_power_unlocked"],
-        "examples": ["Buu Saga", "Fourth Shinobi War", "Marineford"],
+        "examples": ["Battle for the Primordial Anvil (Ironclad Guild Chronicles)", "The Dark Star Crisis (Starcross Academy)", "The Final Convergence (Voidwalkers)"],
         "weight": 0.85
     },
     
@@ -162,7 +162,7 @@ KNOWN_TROPES = {
         "category": "plot",
         "required_traits": ["journey", "destination_goal"],
         "associated_traits": ["companions_join", "episodic_locations", "grow_stronger_on_way"],
-        "examples": ["Pokémon Journey", "Finding One Piece", "Finding Dragon Balls", "Lord of the Rings"],
+        "examples": ["The Shard Hunt (Voidwalkers)", "Awakening in the Reaches (Voidwalkers)"],
         "weight": 0.9
     },
     
@@ -173,7 +173,7 @@ KNOWN_TROPES = {
         "category": "theme",
         "required_traits": ["friendship_empowers"],
         "associated_traits": ["team_attacks", "emotional_moments", "flashbacks_to_bonds", "never_give_up"],
-        "examples": ["Fairy Tail", "One Piece", "Naruto", "My Hero Academia"],
+        "examples": ["Ironclad Guild Chronicles", "Starcross Academy"],
         "weight": 0.8
     },
     
@@ -183,7 +183,7 @@ KNOWN_TROPES = {
         "category": "theme",
         "required_traits": ["hidden_power", "special_destiny"],
         "associated_traits": ["unknown_heritage", "prophecy", "unlocks_in_crisis", "surpasses_limits"],
-        "examples": ["Goku (Saiyan)", "Naruto (Nine-Tails)", "Luffy (inherited will)", "Harry Potter"],
+        "examples": ["Kael Duskvane (Ironclad Guild Chronicles)", "Ryuu Solente (Starcross Academy)", "Eryn Shade (Voidwalkers)"],
         "weight": 0.85
     },
     
@@ -193,7 +193,7 @@ KNOWN_TROPES = {
         "category": "theme",
         "required_traits": ["stated_dream"],
         "associated_traits": ["motivates_actions", "shared_with_team", "symbolic"],
-        "examples": ["Pirate King", "Pokémon Master", "Hokage", "World's Greatest Swordsman"],
+        "examples": ["Become the strongest Runeforger (Ironclad Guild Chronicles)", "Reach Class S (Starcross Academy)", "Close the Void Gates (Voidwalkers)"],
         "weight": 0.9
     },
     
@@ -204,7 +204,7 @@ KNOWN_TROPES = {
         "category": "structure",
         "required_traits": ["team", "defined_roles"],
         "associated_traits": ["leader", "smart_one", "strong_one", "comic_relief", "female_member"],
-        "examples": ["Straw Hat Crew", "Z Fighters", "Team 7", "Pokémon Trainers"],
+        "examples": ["The Ironclad Guild team", "Starcross Academy squad"],
         "weight": 0.75
     },
     
@@ -214,7 +214,7 @@ KNOWN_TROPES = {
         "category": "structure",
         "required_traits": ["multiple_generations"],
         "associated_traits": ["legacy_characters", "new_protagonist_per_gen", "callbacks"],
-        "examples": ["Pokémon Generations", "JoJo Parts", "Avatar Cycles", "Gundam Series"],
+        "examples": ["generation system archetype in long-running serialised stories"],
         "weight": 0.7
     },
 }

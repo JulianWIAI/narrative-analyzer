@@ -1,0 +1,72 @@
+# ===========================================================================
+# Narrative Pattern Analyzer — .gitignore
+# ===========================================================================
+
+# ---------------------------------------------------------------------------
+# Scraped / third-party content
+# Never commit story data that may contain copyrighted character information.
+# Demo files (data/demo_*.json) are whitelisted below.
+# ---------------------------------------------------------------------------
+data/*.json
+!data/demo_*.json
+
+# User-uploaded files via the web GUI
+uploads/
+
+# Generated analysis reports
+output/
+
+# Stray JSON files in the project root (e.g. leftover scraper test outputs)
+/*.json
+
+# ---------------------------------------------------------------------------
+# Python artifacts
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ---------------------------------------------------------------------------
+# Databases and raw data exports
+# ---------------------------------------------------------------------------
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.log
+
+# ---------------------------------------------------------------------------
+# IDE and OS artifacts
+# ---------------------------------------------------------------------------
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------------------
+# Downloaded images or binary assets from scrapers
+# ---------------------------------------------------------------------------
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Screenshots folder is intentionally tracked (README assets)
+!screenshots/
+!screenshots/*.png

@@ -1,0 +1,137 @@
+{
+  "title": "Voidwalkers",
+  "category": "manga",
+  "year": 2024,
+  "genre": ["dark_fantasy", "action", "psychological"],
+  "themes": ["survival", "moral_ambiguity", "sacrifice", "humanity"],
+  "setting": "The Fractured Reaches (post-apocalyptic dimension)",
+  "power_system": "void_resonance",
+  "characters": [
+    {
+      "name": "Eryn Shade",
+      "gender": "female",
+      "species": "human",
+      "role": "protagonist",
+      "hair_color": "dark_grey",
+      "family_status": "orphan",
+      "traits": [
+        "determined",
+        "calm",
+        "brave",
+        "hidden_power",
+        "tragic_past",
+        "unusual_hair_color"
+      ],
+      "dream": "Close the Void Gates and end the dimensional bleed",
+      "abilities": ["void_step", "shadow_bind", "resonance_pulse"],
+      "power_source": "void_resonance",
+      "story": "Voidwalkers"
+    },
+    {
+      "name": "Matthis Greave",
+      "gender": "male",
+      "species": "human",
+      "role": "deuteragonist",
+      "hair_color": "brown",
+      "traits": [
+        "loyal",
+        "kind",
+        "brave",
+        "determined",
+        "comedic"
+      ],
+      "dream": "Protect the surviving settlements at any cost",
+      "abilities": ["impact_burst", "iron_will", "fortify"],
+      "power_source": "physical_enhancement",
+      "story": "Voidwalkers"
+    },
+    {
+      "name": "Ix",
+      "gender": "male",
+      "species": "void_construct",
+      "role": "rival",
+      "traits": [
+        "arrogant",
+        "intelligent",
+        "calm",
+        "mysterious",
+        "transforms"
+      ],
+      "dream": "Determine whether humans are worth preserving",
+      "abilities": ["void_blade", "dimensional_slash", "null_field"],
+      "power_source": "void_resonance",
+      "story": "Voidwalkers"
+    },
+    {
+      "name": "The Archivist",
+      "gender": "male",
+      "age": "ancient",
+      "species": "unknown",
+      "role": "mentor",
+      "traits": [
+        "wise",
+        "old",
+        "calm",
+        "mysterious",
+        "powerful"
+      ],
+      "dream": "Pass on the knowledge needed to seal the Void before he fades",
+      "abilities": ["memory_read", "barrier_absolute", "time_lock"],
+      "power_source": "ancient_resonance",
+      "story": "Voidwalkers"
+    },
+    {
+      "name": "Vael the Unmade",
+      "gender": "female",
+      "species": "human_corrupted",
+      "role": "antagonist",
+      "hair_color": "white",
+      "traits": [
+        "main_villain",
+        "tragic",
+        "intelligent",
+        "immortal",
+        "connected_to_hero",
+        "unusual_hair_color",
+        "transforms"
+      ],
+      "dream": "Merge all dimensions into the Void to end all suffering permanently",
+      "abilities": ["total_erasure", "dimensional_collapse", "corruption_spread"],
+      "power_source": "corrupted_void",
+      "story": "Voidwalkers"
+    }
+  ],
+  "objects": [
+    {
+      "name": "Void Core Shards",
+      "type": "collectible",
+      "traits": ["collectible_power_item", "dangerous", "key_to_sealing"]
+    },
+    {
+      "name": "The Archivist's Tome",
+      "type": "artifact",
+      "traits": ["knowledge_item", "ancient", "unlocks_hidden_power"]
+    }
+  ],
+  "arcs": [
+    {
+      "name": "Awakening in the Reaches",
+      "arc_type": "introduction",
+      "traits": ["world_building", "power_awakening", "first_loss"],
+      "themes": ["survival", "disorientation"]
+    },
+    {
+      "name": "The Shard Hunt",
+      "arc_type": "quest",
+      "traits": ["collectible_power_items", "cross_faction", "moral_choices"],
+      "themes": ["trust", "sacrifice"]
+    },
+    {
+      "name": "The Final Convergence",
+      "arc_type": "war",
+      "traits": ["final_arc", "world_destruction_threat", "hero_sacrifice"],
+      "themes": ["humanity", "cost_of_victory"],
+      "is_final_arc": true
+    }
+  ]
+}

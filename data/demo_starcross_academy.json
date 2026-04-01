@@ -1,0 +1,155 @@
+{
+  "title": "Starcross Academy",
+  "category": "anime",
+  "year": 2024,
+  "genre": ["action", "school", "sci-fi", "romance"],
+  "themes": ["coming_of_age", "identity", "rivalry", "perseverance"],
+  "setting": "Starcross Academy for Stellar Combatants",
+  "power_system": "stellar_channeling",
+  "characters": [
+    {
+      "name": "Ryuu Solente",
+      "gender": "male",
+      "species": "human",
+      "role": "protagonist",
+      "hair_color": "orange",
+      "family_status": "orphan",
+      "traits": [
+        "determined",
+        "naive",
+        "loyal",
+        "hidden_power",
+        "brave",
+        "unusual_hair_color",
+        "hot_headed"
+      ],
+      "dream": "Reach Class S and find his missing older sister",
+      "abilities": ["solar_burst", "heat_aura", "nova_charge"],
+      "power_source": "stellar_channeling",
+      "story": "Starcross Academy"
+    },
+    {
+      "name": "Lira Frostmere",
+      "gender": "female",
+      "species": "human",
+      "role": "deuteragonist",
+      "hair_color": "blue",
+      "traits": [
+        "intelligent",
+        "calm",
+        "kind",
+        "unusual_hair_color",
+        "determined"
+      ],
+      "dream": "Develop a new stellar technique accessible to low-rank students",
+      "abilities": ["ice_lance", "cryo_field", "absolute_zero"],
+      "power_source": "stellar_channeling",
+      "story": "Starcross Academy"
+    },
+    {
+      "name": "Zeno Brightmark",
+      "gender": "male",
+      "species": "human",
+      "role": "rival",
+      "hair_color": "blond",
+      "traits": [
+        "arrogant",
+        "intelligent",
+        "rival",
+        "royalty",
+        "wealthy"
+      ],
+      "dream": "Graduate first in his class and surpass his legendary father",
+      "abilities": ["lightning_draw", "volt_step", "thunderfall"],
+      "power_source": "stellar_channeling",
+      "story": "Starcross Academy"
+    },
+    {
+      "name": "Director Yuen Cassara",
+      "gender": "female",
+      "age": "middle_aged",
+      "species": "human",
+      "role": "mentor",
+      "traits": [
+        "wise",
+        "calm",
+        "powerful",
+        "mysterious",
+        "guardian_figure"
+      ],
+      "dream": "Protect the next generation from repeating her generation's mistakes",
+      "abilities": ["stellar_mastery", "void_step", "constellation_seal"],
+      "power_source": "stellar_channeling",
+      "story": "Starcross Academy"
+    },
+    {
+      "name": "Nox",
+      "gender": "male",
+      "species": "construct",
+      "role": "sidekick",
+      "traits": [
+        "comedic",
+        "loyal",
+        "can_speak",
+        "animal_or_creature",
+        "mascot"
+      ],
+      "dream": "Understand what it means to have a dream",
+      "abilities": ["data_scan", "holographic_display", "energy_shield"],
+      "power_source": "artificial",
+      "story": "Starcross Academy"
+    },
+    {
+      "name": "Caelus Vanthorn",
+      "gender": "male",
+      "species": "human",
+      "role": "antagonist",
+      "hair_color": "black",
+      "traits": [
+        "main_villain",
+        "intelligent",
+        "tragic",
+        "connected_to_hero",
+        "calm"
+      ],
+      "dream": "Collapse the Academy's ranking system and expose the corruption at its core",
+      "abilities": ["dark_star", "erasure_field", "stellar_inversion"],
+      "power_source": "corrupted_stellar",
+      "story": "Starcross Academy"
+    }
+  ],
+  "objects": [
+    {
+      "name": "The Stellar Codex",
+      "type": "artifact",
+      "traits": ["legendary", "ancient", "collectible_power_item", "key_to_mystery"]
+    }
+  ],
+  "arcs": [
+    {
+      "name": "Placement Exams",
+      "arc_type": "tournament",
+      "traits": ["tournament", "class_ranking", "reveals_new_characters"],
+      "themes": ["first_impressions", "potential"]
+    },
+    {
+      "name": "The Phantom Student Incident",
+      "arc_type": "mystery",
+      "traits": ["mystery", "school_threat", "villain_hinted"],
+      "themes": ["identity", "trust"]
+    },
+    {
+      "name": "The Grand Stellar Games",
+      "arc_type": "tournament",
+      "traits": ["tournament", "inter_school", "high_stakes"],
+      "themes": ["teamwork", "growth"]
+    },
+    {
+      "name": "The Dark Star Crisis",
+      "arc_type": "war",
+      "traits": ["final_arc", "world_destruction_threat", "villain_revealed"],
+      "themes": ["sacrifice", "redemption"],
+      "is_final_arc": true
+    }
+  ]
+}

@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-Narrative Pattern Analyzer - Main CLI
+main.py
+-------
+Command-line interface for the Narrative Pattern Analyzer.
 
-A tool for finding story patterns, tropes, and similarities across
-different narratives (games, anime, movies, books, etc.)
+Provides six sub-commands for loading, analysing, comparing, and templating
+story data.  All heavy lifting is delegated to the SBS package.
 
 Usage:
 ------
@@ -11,10 +13,10 @@ Usage:
 python main.py analyze ./data -o ./output
 
 # Analyze specific stories
-python main.py analyze ./data/pokemon.json ./data/dragonball.json
+python main.py analyze ./data/demo_ironclad_guild.json ./data/demo_starcross_academy.json
 
 # Find similarities between two stories
-python main.py compare ./data/pokemon.json ./data/dragonball.json
+python main.py compare ./data/demo_ironclad_guild.json ./data/demo_voidwalkers.json
 
 # List known tropes
 python main.py tropes
@@ -28,9 +30,14 @@ import sys
 import json
 from pathlib import Path
 
-from models import Story, StoryCollection, Character, StoryObject, PlotArc
-from pattern_matcher import PatternMatcher, ArchetypeMatcher
-from report_generator import ReportGenerator
+from SBS.Story import Story
+from SBS.StoryCollection import StoryCollection
+from SBS.Character import Character
+from SBS.StoryObject import StoryObject
+from SBS.PlotArc import PlotArc
+from SBS.PatternMatcher import PatternMatcher
+from SBS.ArchetypeMatcher import ArchetypeMatcher
+from SBS.ReportGenerator import ReportGenerator
 from config import KNOWN_TROPES, CHARACTER_ARCHETYPES
 
 
@@ -292,10 +299,10 @@ def main():
         epilog="""
 Examples:
   python main.py analyze ./data -o ./output
-  python main.py compare pokemon.json dragonball.json
+  python main.py compare data/demo_ironclad_guild.json data/demo_voidwalkers.json
   python main.py tropes
   python main.py template "My Story" -o my_story.json
-  python main.py character pokemon.json "Ash Ketchum"
+  python main.py character data/demo_ironclad_guild.json "Kael Duskvane"
         """
     )
     

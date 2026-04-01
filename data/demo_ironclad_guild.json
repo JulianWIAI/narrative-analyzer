@@ -1,0 +1,148 @@
+{
+  "title": "Ironclad Guild Chronicles",
+  "category": "anime",
+  "year": 2024,
+  "genre": ["action", "adventure", "fantasy"],
+  "themes": ["friendship", "guild", "redemption", "found_family"],
+  "setting": "Kingdom of Vaelthorn",
+  "power_system": "runic_forging",
+  "characters": [
+    {
+      "name": "Kael Duskvane",
+      "gender": "male",
+      "species": "human",
+      "role": "protagonist",
+      "hair_color": "black",
+      "family_status": "orphan",
+      "traits": [
+        "determined",
+        "hot_headed",
+        "loyal",
+        "hidden_power",
+        "unusual_hair_color",
+        "brave"
+      ],
+      "dream": "Become the strongest Runeforger in the kingdom",
+      "abilities": ["rune_strike", "iron_skin", "forge_burst"],
+      "power_source": "runic_forging",
+      "story": "Ironclad Guild Chronicles"
+    },
+    {
+      "name": "Seraphine Coldwell",
+      "gender": "female",
+      "species": "human",
+      "role": "deuteragonist",
+      "hair_color": "silver",
+      "traits": [
+        "intelligent",
+        "calm",
+        "kind",
+        "unusual_hair_color",
+        "strategic"
+      ],
+      "dream": "Uncover the truth about the Runic Collapse",
+      "abilities": ["rune_analysis", "barrier_glyph", "arcane_counter"],
+      "power_source": "runic_forging",
+      "story": "Ironclad Guild Chronicles"
+    },
+    {
+      "name": "Breck Hammerfall",
+      "gender": "male",
+      "species": "dwarf",
+      "role": "sidekick",
+      "traits": [
+        "comedic",
+        "loyal",
+        "brave",
+        "proud",
+        "can_speak"
+      ],
+      "dream": "Restore his clan's legendary forge",
+      "abilities": ["earth_rune", "shield_bash", "war_cry"],
+      "power_source": "runic_forging",
+      "story": "Ironclad Guild Chronicles"
+    },
+    {
+      "name": "Grand Warden Orvyn",
+      "gender": "male",
+      "age": "old",
+      "species": "human",
+      "role": "mentor",
+      "traits": [
+        "wise",
+        "old",
+        "powerful",
+        "grandfather_figure",
+        "calm"
+      ],
+      "dream": "Ensure the guild survives after his retirement",
+      "abilities": ["master_rune", "world_seal", "ancient_knowledge"],
+      "power_source": "runic_forging",
+      "story": "Ironclad Guild Chronicles"
+    },
+    {
+      "name": "Vael Ashborne",
+      "gender": "male",
+      "species": "half_elf",
+      "role": "rival",
+      "hair_color": "white",
+      "traits": [
+        "arrogant",
+        "intelligent",
+        "rival",
+        "unusual_hair_color",
+        "tragic_past"
+      ],
+      "dream": "Prove that nobles are the rightful masters of runic power",
+      "abilities": ["noble_rune", "void_edge", "pressure_field"],
+      "power_source": "runic_forging",
+      "story": "Ironclad Guild Chronicles"
+    },
+    {
+      "name": "Mora Dusk",
+      "gender": "female",
+      "species": "human",
+      "role": "antagonist",
+      "hair_color": "red",
+      "traits": [
+        "main_villain",
+        "tragic",
+        "intelligent",
+        "connected_to_hero",
+        "unusual_hair_color"
+      ],
+      "dream": "Erase the existing guild system and rebuild the world",
+      "abilities": ["collapse_rune", "soul_fracture", "forbidden_forge"],
+      "power_source": "corrupted_runes",
+      "story": "Ironclad Guild Chronicles"
+    }
+  ],
+  "objects": [
+    {
+      "name": "The Primordial Anvil",
+      "type": "artifact",
+      "traits": ["legendary", "ancient", "collectible_power_item", "sought_by_villain"]
+    }
+  ],
+  "arcs": [
+    {
+      "name": "Guild Entrance Trials",
+      "arc_type": "tournament",
+      "traits": ["tournament", "proves_worth", "reveals_new_characters"],
+      "themes": ["competition", "self_discovery"]
+    },
+    {
+      "name": "The Collapse Conspiracy",
+      "arc_type": "investigation",
+      "traits": ["mystery", "world_building", "villain_revealed"],
+      "themes": ["truth", "betrayal"]
+    },
+    {
+      "name": "Battle for the Primordial Anvil",
+      "arc_type": "war",
+      "traits": ["final_arc", "world_destruction_threat", "all_guilds_unite"],
+      "themes": ["sacrifice", "found_family"],
+      "is_final_arc": true
+    }
+  ]
+}
